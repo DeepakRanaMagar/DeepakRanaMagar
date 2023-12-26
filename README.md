@@ -2,8 +2,6 @@
 "Python and Django Developer: Crafting Web-Based Applications with Analytical Programming and Full Stack Expertise"<br>
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/purple4melody) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://syr.us/VtB) 
 
 
 # GitHub Stats:
@@ -11,8 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeepakRanaMagar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakRanaMagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeepakRanaMagar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://syr.us/VtB) 
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
