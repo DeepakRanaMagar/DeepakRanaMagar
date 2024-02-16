@@ -20,4 +20,4 @@
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=DeepakRanaMagar&icon=0&color=0)](https://visitcount.itsvg.in)
+
