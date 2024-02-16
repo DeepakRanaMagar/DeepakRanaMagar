@@ -17,7 +17,7 @@
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://syr.us/VtB)
 
-## Random Dev Quote
+
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=DeepakRanaMagar&icon=0&color=0)](https://visitcount.itsvg.in)
