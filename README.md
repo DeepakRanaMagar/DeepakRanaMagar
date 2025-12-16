@@ -1,5 +1,5 @@
 # About Me:
-"Python and Django Developer: Crafting Web-Based Applications with Analytical Programming and Full Stack Expertise"<br>
+Full-stack & Software Engineer: Crafting Applications with Analytical Programming.<br>
 
 ## Technologies I Use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
